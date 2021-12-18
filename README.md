@@ -10,6 +10,6 @@
 * CSS
 * Javascript
 
-## GithuPages
+## GithubPages
 
 Vous retrouverez mon mini projet [ici](https://cynthiacrn.github.io/Spoiler_System/)
